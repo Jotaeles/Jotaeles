@@ -1,5 +1,5 @@
 ## <div align="center">Hi 👋, I'm Luis Sandoval</div>  
-#### <div align="center">I'm front end developer 👨‍💻 passionate about developing high-quality products 🚀</div>  
+#### <div align="center">I'm front end developer 👨‍💻 Passionate about clean code, performance optimization, and delivering intuitive user experiences.🚀</div>  
 
 ### <div align="center">📫 How to reach me</div> 
 <div align="center">
